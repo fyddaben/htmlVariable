@@ -1,0 +1,11 @@
+{
+  "appenders": [
+    {
+      "type": "file",
+      "filename": "./hv_log.log",
+      "maxLogSize": 20480,
+      "backups": 3,
+      "category": "hv_log"
+    }
+  ]
+}
