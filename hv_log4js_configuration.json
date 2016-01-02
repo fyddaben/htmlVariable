@@ -6,6 +6,13 @@
       "maxLogSize": 20480,
       "backups": 3,
       "category": "hv_log"
+    },
+    {
+      "type": "file",
+      "filename": "./server_log.log",
+      "maxLogSize": 20480,
+      "backups": 3,
+      "category": "server_log"
     }
   ]
 }

@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>智能奇葩科学治愈所 - 小米手机官网</title>
+    <meta name="viewport" content="width=1280" />
+<link rel="stylesheet" href="css/style.min.css" />
+<link rel="shortcut icon" href="http://www.mi.com/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://www.mi.com/favicon.ico" type="image/x-icon" />
+<script>
+var ua = navigator.userAgent.toLowerCase();
+if (ua.indexOf('android') !== -1 || ua.indexOf('iphone') !== -1 || ua.indexOf('ipod') !== -1 || ua.indexOf('symbian') !== -1 || (ua.indexOf('micromessenger') !== -1)) {
+    location.href = 'http://s1.mi.com/m/ghd/2015/1222/index.html';
+}
+</script>
+</head>
+<body>
+<div class="header">
+    <div class="container">
+        <a class="logo" href="http://www.mi.com/index.html">进入小米网</a>
+        <div class="link">
+            <a href="http://bbs.xiaomi.cn/t-11914758" target="_blank">活动详情>></a>
+            <a href="http://www.mi.com/index.html" target="_blank" >返回小米网>></a>
+        </div>
+        <div class="ball"></div>
+        <div class="round"></div>
+        <div class="heart"></div>
+        <div class="text"><div class="shadow"></div><p>信科学得永生</p></div>
+        <div class="bottle"><div class="dosh1"></div><div class="dosh2"></div> </div>
+        <div class="person">
+           <div class="cir cir01"></div>
+            <div class="cir cir02"></div>
+            <div class="gods"></div>
+        </div>
+        <div class="context">
+            <h1>智能奇葩科学治愈所 － 小米智能套装与小蚁智能摄像机又添新功能，立减20元</h1>
+            <h2>购买小米智能家庭套装 + 小蚁智能摄像机 夜视版</h2>
+            <div class="btn">
+                <a class="btn1 J_navBtn"></a>
+                <a class="btn2 J_buy"></a>
+            </div>
+        </div>
+        <div class="msg">
+            <p>小蚁智能摄像机 夜视版 用户<br /><a href="" target="_blank" id="award">  点此领20元优惠券 ><br/></a> (仅限于小米网购买用户)</p>
+        </div>
+    </div>
+    <div class="lightList">
+        <ul class=" J_slider">
+            <li class="light light01"></li>
+            <li class="light light02"></li>
+            <li class="light light03"></li>
+        </ul>
+    </div>
+</div>
+<div class="nav" id="nav">
+    <div class="container">
+        <ul>
+            <li class="active navList nav0" data-type="1"><div class="text"></div><div class="gif"></div></li>
+            <li class="navList nav1" data-type="2"><div class="text"></div><div class="gif"></div> </li>
+            <li class="navList nav2" data-type="3"><div class="text"></div><div class="gif"></div> </li>
+            <li class="navList nav3" data-type="4"><div class="text"></div><div class="gif"></div> </li>
+            <li class="navList nav4" data-type="5"><div class="text"></div><div class="gif"></div> </li>
+            <li class="navList nav5" data-type="6"><div class="text"></div><div class="gif"></div> </li>
+            <li class="nav6 J_buy last"><div class="text"></div></li>
+        </ul>
+    </div>
+</div>
+<div class="section01 section">
+    <div class="container">
+        <div class="count count6">
+            <div class="block1 block"></div>
+            <div class="block2 block">
+                <div class="sign"></div>
+                <div class="part01"></div>
+                <div class="content">
+                    <div class="box" id='del'></div>
+                </div>
+            </div>
+            <div class="block3 block">
+                <div class="person person01"></div>
+                <div class="person_add"></div>
+                <div id='feature'></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section section02">
+    <div class="container">
+        <div class="content">
+            <div class="box">
+                <div class="border"></div>
+                <div class="gods"></div>
+                <div class="title">
+                    <span class="before"></span>
+                    <span class="text_title"><p class="d_title"></p><p class="subtitle">智能家庭套装 + 小蚁智能摄像机 夜视版</p></span>
+                    <span class="after"></span>
+                </div>
+                <div class="btn">
+                    <a class="btn1 J_buy"></a>
+                    <a class="btn2 J_weiboshare"></a>
+                </div>
+                <p class="msg">12月23日14:00:00—1月2日 00:00:00 参与活动 分享至微博赢奖品</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="J_modalAward" class="modal modal-video fade modal-hide award">
+    <div class="modal-hd">
+        <a class="close" data-dismiss="modal" href="javascript: void(0);">X</a>
+    </div>
+    <div class="modal-bd suc">
+        <div class="icon"></div>
+        <div class="text">
+            <h1></h1>
+            <h2></h2>
+            <p></p>
+        </div>
+    </div>
+</div>
+
+<div id="J_modalBuy" class="modal modal-video fade modal-hide buy">
+    <div class="modal-hd">
+        <a class="close" data-dismiss="modal" href="javascript: void(0);"><img src="img/close.png"></a>
+    </div>
+    <div class="modal-bd">
+        <div class="text">
+           <ul>
+               <li class="item01" data-id="1155100021">
+                   <h3>小米智能生活套装:328元</h3>
+                   <p>&nbsp;</p>
+                   <div class="goods"><img src="img/buygoods1.jpg"></div>
+               </li>
+               <li class="item02" data-id="2150500001">
+                   <h3>小米智能家庭套装:179元</h3>
+                   <p>*请在活动页面 领取优惠券后购买</p>
+                   <div class="goods"><img src="img/buygoods2.jpg"></div>
+               </li>
+           </ul>
+            <a class="J_buyBtn btn unbtn">去结算</a>
+        </div>
+    </div>
+</div>
+
+<script id = "delTemplate"  type="text/x-dot-template">
+    {{for(var i in it.text){}}
+    <div class="text text0{{=parseInt(i)+1}}">
+        <div class="title">
+            <span class="before"></span>
+            <span class="title_text"><p class="{{=it.text[i].title_class}} d_title">{{=it.text[i].title_content}}</p>
+                <p class="subtitle">{{=it.text[i].title_des}}</p></span>
+            <span class="after"></span>
+        </div>
+        <div class="subText">{{=it.text[i].subText}}</div>
+        <div class="goodsList" style="width:{{=it.text[i].goodsData.length*245-20}}px">
+            <ul style="width:{{=it.text[i].goodsData.length*245}}px">
+                {{for(var j in it.text[i].goodsData){}}
+                <li class="{{=it.text[i].goodsData[j].type}}">
+                    <h3>{{=it.text[i].goodsData[j].title}}</h3>
+                    <p>{{=it.text[i].goodsData[j].des}}</p>
+                </li>
+                {{}}}
+            </ul>
+        </div>
+    </div>
+    {{}}}
+</script>
+
+<script id = "featureTemplate" type="text/x-dot-template">
+    <div class="feature">
+        <table>
+            <tr class="first">
+                <th><img src="{{=it.img}}"></th>
+                <td>
+                    <p><span class="title">释义：</span><span class="des">{{=it.des}}</span></p>
+                </td>
+            </tr>
+            <tr>
+                <th></th>
+                <td>
+                    <p><span class="title">弱点：</span><span class="des">{{=it.short}}</span></p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</script>
+
+<script src="http://www.mi.com/js/libs/jquery.js?ver=1.11"></script>
+<script src="http://s01.mifile.cn/js/lib/doT.min.js"></script>
+<script src="http://www.mi.com/js/libs/modal.js"></script>
+<script src="js/slider.js"></script>
+<script src="js/script.min.js"></script>
+
+<script>
+var _msq = _msq || [] ;
+_msq.push(['setDomainId', 100]);
+_msq.push(['trackPageView']);
+(function() {
+    var ms = document.createElement('script');
+    ms.type ='text/javascript';
+    ms.async = true;
+    ms.src = 'http://c1.mifile.cn/f/i/15/stat/js/xmst.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ms, s);
+})();
+</script>
+</body>
+</html>
