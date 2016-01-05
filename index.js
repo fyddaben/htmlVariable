@@ -98,14 +98,14 @@ function tmplReverse() {
   });
 };
 
-//reqUrl('http://hd.mi.com/z/12161a/index.html').then(function(body) {
-  //writeFile(body);
-  //var $ = cheerio.load(body, {decodeEntities: false});
-  //var text = $('body').html();
-  //var dom = htmlparser.parseDOM(text);
-  //loopCheck(dom, 0);
-  //logger.info(JSON.stringify(treeData));
-//});
+reqUrl('http://hd.mi.com/z/12161a/index.html').then(function(body) {
+  writeFile(body);
+  var $ = cheerio.load(body, {decodeEntities: false});
+  var text = $('body').html();
+  var dom = htmlparser.parseDOM(text);
+  loopCheck(dom, 0);
+  logger.info(JSON.stringify(treeData));
+});
 
 tmplReverse();
 

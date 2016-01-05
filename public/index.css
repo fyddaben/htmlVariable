@@ -2,3 +2,16 @@
   width: 1226px;
   margin: 0 auto;
 }
+input{
+  width: 300px;
+}
+.icon{
+  line-height: 40px;
+}
+.input-unit{
+  margin-top: 20px;
+}
+.btn-block{
+  margin-top: 40px;
+  text-align: center;
+}
